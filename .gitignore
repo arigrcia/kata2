@@ -1,5 +1,11 @@
 target/
 out/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
+bin/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
